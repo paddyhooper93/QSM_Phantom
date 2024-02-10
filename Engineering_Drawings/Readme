@@ -1,4 +1,3 @@
-Instructions to the workshop
 Required materials:
 •	Cyanoacrylic glue
 •	Cast acrylic cylinder: 140 mm ID, 150 mm OD, 200 mm length.
@@ -8,12 +7,9 @@ Required materials:
 •	12-mm nylon bolt
 •	20 nuclear magnetic resonance (NMR) vials
 •	14 6-mm nylon bolts
-For full detail of the phantom, please refer to the engineering drawings themselves.
-
-The phantom was constructed with cyanoacrylic glue, cast acrylic cylinder and acrylic sheets. 
-Cast acrylic was chosen since it was much more durable than extruded acrylic and does not create susceptibility artefacts. 
-The phantom was sealed with an O-ring flange fitting. 
-Two machined acrylic plates were used as vial supports with 100-mm of imaging space in the z-direction. 
-A single 6-mm hole was drilled on the top plate to remove bubbles from the imaging space. 
-The fill port was tapped M12 halfway between centre and edge and consisted of an O-ring wrapped around a 12-mm nylon bolt. 20 nuclear magnetic resonance (NMR) vials (10 mm OD).
-All bolts were procured from RS components. Cast acrylic was procured from Foremost Plastics. NMR vials were procured from Merck and manufactured by Kimble Glass.
+•	All bolts were procured from RS components. Cast acrylic was procured from Foremost Plastics. NMR vials were procured from Merck and manufactured by Kimble Glass.
+Outer body construction: The phantom was constructed with cyanoacrylic glue, cast acrylic cylinder and acrylic sheets. Cast acrylic was chosen since it was much more durable than extruded acrylic and does not create susceptibility artefacts. 
+Flange fitting: The phantom was sealed with an O-ring flange fitting. The flange consisted of 12 6-mm tapped bolts to compress the O-ring within its groove. Each bolt was tightened at opposing ends to avoid pinching the O-ring.
+Vial supports: Two machined acrylic plates (135 mm OD) acted as vial supports with 100-mm of imaging space in the z-direction. Small tags were machined from acrylic and glued to the cast cylinder to hold the plates. 
+Air bubble trap: A single 6-mm hole was drilled on the top plate to remove bubbles from the imaging space. 
+Fill port: The fill port was tapped M12 halfway between centre and edge and consisted of an O-ring wrapped around a 12-mm nylon bolt. The 12-mm bolt was tightened carefully to avoid pinching the O-ring.

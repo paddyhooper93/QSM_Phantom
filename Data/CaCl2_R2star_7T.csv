@@ -1,0 +1,5 @@
+Label Id,Label Name,Number Of Voxels,Image mean (7T_Baseline_Arlo),Image stdev (7T_Baseline_Arlo),Image mean (7T_Baseline_Rep_Arlo),Image stdev (7T_Baseline_Rep_Arlo),Image mean (7T_9mthtoBL_Arlo),Image stdev (7T_9mthtoBL_Arlo),,
+11,Label 11,4402,14.4477,2.49578,14.3367,2.60565,10.392,3.03473,13.0588,2.712053333
+12,Label 12,5571,14.0966,2.14638,13.9145,2.19004,11.0262,2.26261,13.01243333,2.199676667
+13,Label 13,6231,15.5619,1.3312,15.4861,1.38509,12.5663,1.70897,14.5381,1.475086667
+14,Label 14,3819,16.1013,1.05349,16.1314,1.16557,16.1288,1.8818,16.1205,1.366953333

@@ -1,0 +1,12 @@
+Agarose gel production
+Agarose gel production followed procedures outlined in the T1 Mapping and Extracellular volume Standardization (T1MES) program. Please refer to their manuscript for a more complete agarose gel production protocol. (http://jcmr-online.biomedcentral.com/articles/10.1186/s12968-016-0280-z).
+Required materials:
+•	Agarose gel powder (A4018, Merck \& Co.)
+•	Milli-Q water 
+•	Conical flask (50 mL) and appropriately sized glass funnel
+•	Microwave
+•	Terumo syringe (0.5 mL) or micropipette (for measuring iron solution)
+•	NMR vial
+•	Round-bottom flask (50 mL), beaker (tall)
+•	hot plate, support stand, thermometer, thermometer clamp
+All glassware should be cleaned prior to use in an acid-base bath. Agarose gel (1.5 wt.%) was prepared by mixing agarose powder and Milli-Q water in a 50 mL conical flask, microwaved for 3 sets of 15 second intervals, swirled between heating, then inspected under light for clumps. The conical flask containing the hot gel was filled with the iron-based solution or calcium-based powder according to the following: For the iron-based solution, volumes were injected into the conical flask with a 0.5 mL Terumo syringe; For the calcium-based solution, masses were funneled into a round-bottom flask containing the hot gel, allowing the powder to solvate at 60°C with a magnetic stirrer. The mixed gels were poured over the brim of the NMR vial, immediately sealed with a cap. Place the filled NMR vial into a tall beaker of pre-heated water (60 °C), and slowly down to room temperature.

@@ -1,0 +1,4 @@
+DipoleInversion_Notes.txt
+
+% ROMEO fieldmap reduces noise about CaCO3 (SNR-deprived).
+% MEDI-SMV is less sensitive to noise than "MEDI".
